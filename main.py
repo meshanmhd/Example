@@ -1,5 +1,4 @@
 print("Hello World")
 print("Shan muhammed")
-qshqbshqbdbqw
-qwdskqwndj
-qwdqwqwlkdhqwihdqy722172172
+print("Hello class")
+print("Shan")
